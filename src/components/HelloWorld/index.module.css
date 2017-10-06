@@ -1,0 +1,17 @@
+.heading {
+  border: 1px solid currentColor;
+  background-color: pink;
+  color: hotpink;
+  margin: 0;
+  text-align: center;
+  padding: 5px;
+}
+
+.subHeading {
+  composes: heading; /* composes is a CSS Modules feature */
+  border-top: none;
+
+  & span { /* nesting is a cssnext feature */
+    color: rebeccapurple;
+  }
+}
