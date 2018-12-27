@@ -1,4 +1,9 @@
 # gatsby-storybook-css-modules
+
+# UPDATE
+
+This example is for use with Gatsby v1. If you're using Gatsby v2 you should refer to [Gatsby's docs on using Storybook with Gatsby](https://www.gatsbyjs.org/docs/visual-testing-with-storybook/).
+
 ## About
 An example of using [Gatsby](https://www.gatsbyjs.org) with [Storybook](https://storybook.js.org/) and [CSS Modules](https://github.com/css-modules/css-modules). Based on Gatsby's default starter.
 
